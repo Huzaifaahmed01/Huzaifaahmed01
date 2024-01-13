@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Huzaifa Ahmed</h1>
-<h3 align="left">As a software engineer with a passion for building tech and innovative startups, I am passionate about leveraging my skills to solve complex problems and drive innovation. I have a strong background in programming languages like Python, Javascript, Typescript, and frameworks like NestJs, Django, Flask, and ReactJs.</h3>
+<h3 align="left">A software engineer with a passion for building tech and innovative startups, I am passionate about leveraging my skills to solve complex problems and drive innovation. I have a strong background in programming languages like Python, Javascript, Typescript, and frameworks like NestJs, Django, Flask, and ReactJs.</h3>
 
 - 🌱 I’m currently learning **Go, Rust, and Kubernetes**
 
@@ -19,6 +19,6 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaifaahmed01&show_icons=true&locale=en&layout=compact" alt="huzaifaahmed01" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huzaifaahmed01&show_icons=true&locale=en" alt="huzaifaahmed01" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=huzaifaahmed01&show_icons=true&locale=en" alt="huzaifaahmed01" /></p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifaahmed01&" alt="huzaifaahmed01" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifaahmed01&" alt="huzaifaahmed01" /></p>
